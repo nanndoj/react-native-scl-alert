@@ -22,7 +22,7 @@ export default {
   },
 
   get largeFontSize() {
-    return this.scale(24)
+    return this.scale(18)
   },
 
   /**
