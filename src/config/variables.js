@@ -18,7 +18,7 @@ export default {
   },
 
   get mediumFontSize() {
-    return this.scale(16)
+    return this.scale(14)
   },
 
   get largeFontSize() {
